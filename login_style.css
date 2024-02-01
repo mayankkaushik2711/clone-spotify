@@ -28,7 +28,7 @@ section{
 section .main{
     margin: 32px;
     /* padding: 32px; */
-    width: 734px;
+    width: 90%;
     height: 910px;
     background-color: #000;
     border-radius: 5px;
